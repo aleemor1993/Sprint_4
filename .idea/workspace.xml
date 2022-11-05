@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d2bb48c-414d-44b4-8560-c677f5b8a662" name="Changes" comment="" />
+    <list default="true" id="1d2bb48c-414d-44b4-8560-c677f5b8a662" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GxHccuvz8sPsKKZsVIABR4topc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +35,115 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.CheckQuestionsAndAnswers">
+    <configuration name="CheckQuestionsAndAnswers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accordionqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accordionqa" />
+      <option name="MAIN_CLASS_NAME" value="accordionqa.CheckQuestionsAndAnswers" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="browser" value="ff" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckQuestionsAndAnswers.checkTextForAccordionElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accordionqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accordionqa" />
+      <option name="MAIN_CLASS_NAME" value="accordionqa.CheckQuestionsAndAnswers" />
+      <option name="METHOD_NAME" value="checkTextForAccordionElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="browser" value="ff" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeOrderByButtonInHeaderChrome.checkTextForAccordionElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="makeorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="makeorder.chrome" />
+      <option name="MAIN_CLASS_NAME" value="makeorder.chrome.MakeOrderByButtonInHeaderChrome" />
+      <option name="METHOD_NAME" value="checkTextForAccordionElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeOrderByButtonInHeaderChrome.makeOrderByButtonInHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="makeorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="makeorder.chrome" />
+      <option name="MAIN_CLASS_NAME" value="makeorder.chrome.MakeOrderByButtonInHeaderChrome" />
+      <option name="METHOD_NAME" value="makeOrderByButtonInHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeOrder.makeOrderByButtonInHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="makeorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="makeorder" />
+      <option name="MAIN_CLASS_NAME" value="makeorder.MakeOrder" />
+      <option name="METHOD_NAME" value="makeOrderByButtonInHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="browser" value="ff" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CheckQuestionsAndAnswers" />
+        <item itemvalue="JUnit.CheckQuestionsAndAnswers.checkTextForAccordionElements" />
+        <item itemvalue="JUnit.MakeOrder.makeOrderByButtonInHeader" />
+        <item itemvalue="JUnit.MakeOrderByButtonInHeaderChrome.makeOrderByButtonInHeader" />
+        <item itemvalue="JUnit.MakeOrderByButtonInHeaderChrome.checkTextForAccordionElements" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,5 +165,29 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/makeorder/chrome/MakeOrderByButtonInHeaderChrome.java</url>
+          <line>77</line>
+          <properties class="makeorder.chrome.MakeOrderByButtonInHeaderChrome" method="makeOrderByButtonInHeader">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/accordionqa/CheckQuestionsAndAnswers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
