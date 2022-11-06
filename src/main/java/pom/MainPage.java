@@ -106,4 +106,14 @@ public class MainPage {
         };
         return null;
     }
+
+    public void chooseOrderButton(String location){
+        if (location.equals("In header")){
+            clickStartOrderButtonInHeader();
+        }
+        if (location.equals("Below page")){
+            scrollToOrderButtonBelowPage();
+            startOrderButtonBelowPage();
+        }
+    }
 }
